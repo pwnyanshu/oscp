@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Attackiing common services/Attacking SQL Databases.md",
+                "file": "Notes/Brute Forcing/2. Defaults.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attacking SQL Databases"
+              "title": "2. Defaults"
+            }
+          },
+          {
+            "id": "b6879596569fa5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tools/Hydra/4. Demo HTTP Post.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Demo HTTP Post"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,53 +198,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "30f73b857223190a",
+  "active": "b6879596569fa5a8",
   "lastOpenFiles": [
-    "OSCP/Attachments/Pasted image 20251105231451.png",
-    "Notes/Attackiing common services/HTB - FTP.md",
-    "Notes/Attackiing common services/Attacking SQL Databases.md",
-    "OSCP/Attachments/Pasted image 20251102183907.png",
-    "Pasted image 20251031194108.png",
-    "Pasted image 20251031193527.png",
-    "Pasted image 20251023161902.png",
-    "Pasted image 20251023161458.png",
-    "Pasted image 20251016143647.png",
-    "PPT EXPORT/Lets Start.md",
-    "PPT EXPORT/Pre Tasks/4. Setup screenshots.md",
-    "PPT EXPORT/Pre Tasks/3. SetUP DBeaver.md",
-    "PPT EXPORT/Pre Tasks/2. Setup SSH.md",
-    "PPT EXPORT/Pre Tasks/1. Update bash to version 5.md",
-    "Notes/Privlege Esclation/Windows HTB/1. tools.md",
-    "Notes/Privlege Esclation/Windows THM/Abusing dangerous privileges/Exploit SeTakeOwnership privilege.md",
-    "Notes/Privlege Esclation/Windows THM/Abusing dangerous privileges/A. Basics.md",
-    "Notes/Privlege Esclation/Windows THM/Abusing Service Misconfigurations/Unquoted Service Paths.md",
-    "Notes/Privlege Esclation/Windows THM/Abusing Service Misconfigurations/Insecure Permissions on Service Executable.md",
-    "Notes/Privlege Esclation/Windows THM/Abusing Service Misconfigurations/Insecure Service Permissions.md",
-    "Notes/Privlege Esclation/Windows HTB/0. Basics.md",
+    "Notes/Tools/Medusa/1. SSH and FTP.md",
+    "Notes/Tools/Medusa/0. Basics.md",
+    "Notes/Brute Forcing/7. Refer Hydra and Medusa.md",
+    "Notes/Brute Forcing/4. Dicionary + simple demp.md",
+    "Notes/Brute Forcing/4.5",
+    "Notes/Brute Forcing/6. Hybrid attack.md",
+    "Notes/Brute Forcing/5. Common Wordlists.md",
+    "Notes/Brute Forcing/3. simple demo.md",
+    "Notes/Brute Forcing/2. Defaults.md",
+    "Notes/Brute Forcing/1. Intro.md",
+    "Notes/Tools/NMAP/1. Basics.md",
+    "Notes/Tools/Impacket.md",
+    "Notes/Tools/xfreerdp.md",
+    "Notes/Tools/Hydra/3. Demo HTTP Get.md",
+    "Notes/Tools/Hydra/2. Usage2.md",
+    "Notes/Tools/Hydra/1. Usage.md",
+    "Notes/Privlege Esclation/Windows HTB/Windows User Privileges/1. SeImpersonate and SeAssignPrimaryToken.md",
+    "Notes/Privlege Esclation/Windows HTB/Windows User Privileges/0. Overview.md",
+    "Notes/Pivoting, Tunneling, and Port Forwarding/Basics.md",
+    "Notes/Attachments/Pasted image 20251129133744.png",
+    "Notes/Attachments/Pasted image 20251121121626.png",
+    "Notes/Attachments/Pasted image 20250813132920.png",
+    "Notes/Attachments/Pasted image 20250813132910.png",
+    "Notes/Attachments/Pasted image 20250916215937.png",
+    "Notes/Attachments/Pasted image 20251121120614.png",
+    "Notes/Attachments/Pasted image 20251121120719.png",
+    "Notes/Attachments/Pasted image 20251113171508.png",
+    "Notes/Attachments/Pasted image 20251121001119.png",
+    "Notes/Tools/Burp Suite by HTB/6. Encoding Decoding.md",
+    "Notes/Tools/Burp Suite by HTB/7. Burp Intruder.md",
+    "Notes/Attachments/Pasted image 20251121011332.png",
+    "Notes/Z. Misc/Enumeration Tips.md",
+    "Notes/Z. Misc/random tips.md",
     "Notes/Tools/Burp Suite by HTB/Repeating Requests.md",
+    "Notes/Tools/Burp Suite by PortSwigger/8. Repeater basics.md",
+    "Notes/Tools/Burp Suite by HTB/5. Automatic Modification.md",
+    "Notes/Tools/Burp Suite by HTB/Intercepting Responses.md",
+    "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
+    "Notes/Footprinting",
+    "Notes/Attacking Common Applications",
+    "Notes/Wordlists",
+    "Notes/Tools/Medusa",
+    "Notes/Tools/Hydra",
     "Notes/Privlege Esclation/Windows HTB",
-    "Notes/Web/0. info gathering/fuff/9. Cheat Sheet.md",
-    "Notes/Web/0. info gathering/fuff/5. Parameter Fuzzing - GET.md",
-    "OSCP/Attachments/Pasted image 20251103191413.png",
-    "Notes/Web/0. info gathering/fuff/4. Filtering Results.md",
-    "OSCP/Attachments/Pasted image 20251103185630.png",
-    "Notes/Web/0. info gathering/fuff/3. Subdomains.md",
-    "OSCP/Attachments/Pasted image 20251103184843.png",
-    "Notes/Web/0. info gathering/fuff/2. Directory.md",
-    "Notes/Web/0. info gathering/fuff/1. Wordlists.md",
-    "OSCP/Attachments/Pasted image 20251103155209.png",
-    "Notes/Web/XSS/5. XXS Discovery.md",
-    "Notes/Web/XSS/3. Reflected XSS.md",
-    "Notes/Web/XSS/4. DOM XSS.md",
-    "Notes/Web/XSS/1. Stored XSS.md",
     "Notes/Web/XSS",
-    "Notes/Tools/Burp Suite by HTB",
-    "Notes/Web/0. info gathering/fuff",
-    "Notes/Web/IDOR",
-    "Notes/Web/HTTP Verb Tampering/Untitled",
-    "Notes/Web/HTTP Verb Tampering",
-    "Notes/Tools/NetCat",
-    "PPT EXPORT/Pre Tasks",
-    "Notes/Web/0. info gathering"
+    "Notes/Tools/Burp Suite by HTB"
   ]
 }

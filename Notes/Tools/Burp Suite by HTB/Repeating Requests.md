@@ -18,3 +18,4 @@ To start, we can view the HTTP requests history in `Burp` at (`Proxy>HTTP Hist
 
 Once we locate the request we want to repeat, we can click [`CTRL+R`] in Burp to send it to the `Repeater` tab, and then we can either navigate to the `Repeater` tab or click [`CTRL+SHIFT+R`] to go to it directly. Once in `Repeater`, we can click on `Send` to send the request:
 
+![[Pasted image 20251121005153.png]]
