@@ -51,12 +51,14 @@
             "id": "af8e0e8233420656",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Attachments/Pasted image 20251129150931.png"
+                "file": "Notes/Attacking Common Applications/SMB.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251129150931"
+              "icon": "lucide-file",
+              "title": "SMB"
             }
           }
         ],
@@ -208,27 +210,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "30f73b857223190a",
+  "active": "af8e0e8233420656",
   "lastOpenFiles": [
-    "Notes/Attachments/Pasted image 20251130155716.png",
+    "Notes/Z. Misc/Tips for all machine.md",
+    "Notes/Attachments/Pasted image 20251130181643.png",
+    "Notes/Basic connections/1. SSH.md",
+    "Notes/Attachments/Pasted image 20251202204311.png",
+    "Notes/Attacking Common Applications/SMB.md",
+    "Notes/Attachments/Pasted image 20251202203640.png",
+    "Notes/Attachments/Pasted image 20251202203533.png",
+    "Notes/Attachments/Pasted image 20251202203505.png",
+    "Notes/Basic connections/2. FTP.md",
+    "Notes/Attachments/Pasted image 20251202203252.png",
+    "Notes/Attachments/Pasted image 20251202203233.png",
+    "Notes/Attachments/Pasted image 20251202203130.png",
     "Notes/Web/SQLi/HTB/4. UNION.md",
+    "Notes/Attachments/Pasted image 20251130182146.png",
+    "Notes/Attachments/Pasted image 20251129150931.png",
     "Notes/Basic connections/3. MySQL.md",
     "Notes/Web/SQLi/HTB/3. Using comment.md",
-    "Notes/Attachments/Pasted image 20251130155700.png",
     "Notes/Web/SQLi/HTB/2. Subverting Query Logic.md",
-    "Notes/Attachments/Pasted image 20251130150443.png",
-    "Notes/Attachments/Pasted image 20251130150431.png",
-    "Notes/Attachments/Pasted image 20251130150102.png",
-    "Notes/Attachments/Pasted image 20251130150056.png",
-    "Notes/Attachments/Pasted image 20251130150034.png",
-    "Notes/Attachments/Pasted image 20251130144233.png",
-    "Notes/Attachments/Pasted image 20251130144153.png",
-    "Notes/Attachments/Pasted image 20251130135414.png",
     "Notes/Web/SQLi/HTB/1. What actually happens in the back.md",
     "Notes/Web/SQLi/HTB/0. Intro.md",
     "Notes/Web/Basics.md",
-    "Notes/Basic connections/2. FTP.md",
-    "Notes/Basic connections/1. SSH.md",
     "Notes/Connect commom services/Connections.md",
     "Notes/Tools/Medusa/2. FTP.md",
     "Notes/Tools/Medusa/1. SSH.md",
@@ -245,8 +249,6 @@
     "Notes/Brute Forcing/5. Common Wordlists.md",
     "Notes/Brute Forcing/3. simple demo.md",
     "Notes/Brute Forcing/2. Defaults.md",
-    "Notes/Brute Forcing/1. Intro.md",
-    "Notes/Tools/NMAP/1. Basics.md",
     "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
     "Notes/Footprinting",
     "Notes/Attacking Common Applications",
