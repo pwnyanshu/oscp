@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Web/SQLi/HTB/0. Intro.md",
+                "file": "Notes/Tools/Linux/find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Intro"
+              "title": "find"
             }
           },
           {
@@ -27,38 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Brute Forcing/2. Defaults.md",
+                "file": "Notes/Z. Misc/List of tools and installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Defaults"
+              "title": "List of tools and installation"
             }
           },
           {
-            "id": "b6879596569fa5a8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Notes/Attachments/Pasted image 20251130155716.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251130155716"
-            }
-          },
-          {
-            "id": "af8e0e8233420656",
+            "id": "2a62a422099f11a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Attacking Common Applications/SMB.md",
+                "file": "Notes/Tools/Linux/locate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "locate"
+            }
+          },
+          {
+            "id": "af39c283714b9dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Web/IDOR/Mass IDOR Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mass IDOR Enumeration"
             }
           }
         ],
@@ -210,45 +212,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "af8e0e8233420656",
+  "active": "af39c283714b9dfa",
   "lastOpenFiles": [
-    "Notes/Z. Misc/Tips for all machine.md",
-    "Notes/Attachments/Pasted image 20251130181643.png",
-    "Notes/Basic connections/1. SSH.md",
-    "Notes/Attachments/Pasted image 20251202204311.png",
-    "Notes/Attacking Common Applications/SMB.md",
-    "Notes/Attachments/Pasted image 20251202203640.png",
-    "Notes/Attachments/Pasted image 20251202203533.png",
-    "Notes/Attachments/Pasted image 20251202203505.png",
-    "Notes/Basic connections/2. FTP.md",
-    "Notes/Attachments/Pasted image 20251202203252.png",
-    "Notes/Attachments/Pasted image 20251202203233.png",
-    "Notes/Attachments/Pasted image 20251202203130.png",
-    "Notes/Web/SQLi/HTB/4. UNION.md",
-    "Notes/Attachments/Pasted image 20251130182146.png",
-    "Notes/Attachments/Pasted image 20251129150931.png",
-    "Notes/Basic connections/3. MySQL.md",
-    "Notes/Web/SQLi/HTB/3. Using comment.md",
-    "Notes/Web/SQLi/HTB/2. Subverting Query Logic.md",
-    "Notes/Web/SQLi/HTB/1. What actually happens in the back.md",
+    "Notes/Attachments/Pasted image 20251207145029.png",
+    "Notes/Z. Misc/Transfering Files/Ssbace.md",
+    "Notes/Password Cracking/2. John the Ripper.md",
+    "Notes/Attachments/Pasted image 20251207144958.png",
+    "Notes/Attachments/Pasted image 20251207144928.png",
+    "Notes/Attachments/Pasted image 20251207144922.png",
+    "Notes/Tools/Linux/locate.md",
+    "Notes/Attachments/Pasted image 20251207144215.png",
+    "Notes/Attachments/Pasted image 20251207144019.png",
+    "Notes/Password Cracking/3. Hashcat.md",
+    "Notes/Attachments/Pasted image 20251207122904.png",
+    "Notes/Attachments/Pasted image 20251207122843.png",
+    "Notes/Attachments/Pasted image 20251207122555.png",
+    "Notes/Attachments/Pasted image 20251207122532.png",
+    "Notes/Tools/Linux/find.md",
+    "Notes/Z. Misc/List of tools and installation.md",
     "Notes/Web/SQLi/HTB/0. Intro.md",
-    "Notes/Web/Basics.md",
-    "Notes/Connect commom services/Connections.md",
-    "Notes/Tools/Medusa/2. FTP.md",
-    "Notes/Tools/Medusa/1. SSH.md",
-    "Notes/Brute Forcing/4. Dicionary + simple demp.md",
-    "Notes/Tools/NMAP/6. My Notes HTB.md",
-    "Notes/Connect commom services",
-    "Notes/Tools/NMAP/5. Cheat sheet.md",
-    "Notes/Tools/Hydra/3. Demo HTTP Get.md",
-    "Notes/Tools/Hydra/4. Demo HTTP Post.md",
-    "Notes/Tools/Medusa/0. Basics.md",
-    "Notes/Brute Forcing/7. Refer Hydra and Medusa.md",
-    "Notes/Brute Forcing/4.5",
-    "Notes/Brute Forcing/6. Hybrid attack.md",
-    "Notes/Brute Forcing/5. Common Wordlists.md",
-    "Notes/Brute Forcing/3. simple demo.md",
+    "Notes/Attackiing common services/Email.md",
     "Notes/Brute Forcing/2. Defaults.md",
+    "Notes/Attackiing common services/DNS.md",
+    "Notes/Attackiing common services/SQL Databases.md",
+    "Notes/Attackiing common services/FTP.md",
+    "Notes/Attackiing common services/RDP.md",
+    "Notes/Attacking Common Applications/SMB.md",
+    "Notes/Basic connections/4. RDP.md",
+    "Notes/Tools/xfreerdp.md",
+    "Notes/Z. Misc/TJ Nulls List.md",
+    "Notes/Z. Misc/Tips for all machine.md",
+    "Notes/Z. Misc/random tips.md",
+    "Notes/Z. Misc/mindmaps.md",
+    "Notes/Z. Misc/Enumeration Tips.md",
+    "Notes/Z. Misc/Download Links.md",
+    "Notes/Z. Misc/Additional tools to download.md",
+    "Notes/Z. Misc/Completed.md",
+    "Notes/Basic connections/1. SSH.md",
+    "Notes/Connect commom services",
+    "Notes/Brute Forcing/4.5",
     "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
     "Notes/Footprinting",
     "Notes/Attacking Common Applications",
