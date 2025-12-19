@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tools/Linux/locate.md",
+                "file": "Notes/Web/IDOR/Mass IDOR Enumeration (Advanced IDOR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "locate"
+              "title": "Mass IDOR Enumeration (Advanced IDOR)"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Web/IDOR/Mass IDOR Enumeration.md",
+                "file": "Notes/Tools/Bash/Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mass IDOR Enumeration"
+              "title": "Find"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,43 +212,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "af39c283714b9dfa",
+  "active": "2a62a422099f11a3",
   "lastOpenFiles": [
-    "Notes/Attachments/Pasted image 20251207145029.png",
-    "Notes/Z. Misc/Transfering Files/Ssbace.md",
-    "Notes/Password Cracking/2. John the Ripper.md",
-    "Notes/Attachments/Pasted image 20251207144958.png",
-    "Notes/Attachments/Pasted image 20251207144928.png",
-    "Notes/Attachments/Pasted image 20251207144922.png",
+    "Notes/Attachments/Pasted image 20251219180655.png",
+    "Notes/Web/Local File Inclusion (LFI)/5. PHP Wrappers.md",
+    "Notes/Attachments/Pasted image 20251219213129.png",
+    "Notes/Attachments/Pasted image 20251219213003.png",
+    "Notes/Attachments/Pasted image 20251219212910.png",
+    "Notes/Attachments/Pasted image 20251219211445.png",
+    "Notes/Attachments/Pasted image 20251219210738.png",
+    "Notes/Attachments/Pasted image 20251219205138.png",
+    "Notes/Attachments/Pasted image 20251219180848.png",
+    "Notes/Attachments/Pasted image 20251219180730.png",
+    "Notes/Web/Local File Inclusion (LFI)/4. PHP Filters.md",
+    "Notes/Attachments/Pasted image 20251208002336.png",
+    "Notes/Web/0. info gathering/fuff/2. Directory.md",
+    "Notes/Web/0. info gathering/fuff/3. Subdomains.md",
+    "Notes/Web/Local File Inclusion (LFI)/3. Basic bypasses.md",
+    "Notes/Web/Local File Inclusion (LFI)/2. Basic LFI.md",
+    "Notes/Web/Local File Inclusion (LFI)/1. Intro.md",
+    "Notes/Footprinting/IPMI.md",
+    "Notes/Tools/Bash/Find.md",
     "Notes/Tools/Linux/locate.md",
-    "Notes/Attachments/Pasted image 20251207144215.png",
-    "Notes/Attachments/Pasted image 20251207144019.png",
-    "Notes/Password Cracking/3. Hashcat.md",
-    "Notes/Attachments/Pasted image 20251207122904.png",
-    "Notes/Attachments/Pasted image 20251207122843.png",
-    "Notes/Attachments/Pasted image 20251207122555.png",
-    "Notes/Attachments/Pasted image 20251207122532.png",
-    "Notes/Tools/Linux/find.md",
     "Notes/Z. Misc/List of tools and installation.md",
-    "Notes/Web/SQLi/HTB/0. Intro.md",
-    "Notes/Attackiing common services/Email.md",
-    "Notes/Brute Forcing/2. Defaults.md",
-    "Notes/Attackiing common services/DNS.md",
-    "Notes/Attackiing common services/SQL Databases.md",
-    "Notes/Attackiing common services/FTP.md",
-    "Notes/Attackiing common services/RDP.md",
-    "Notes/Attacking Common Applications/SMB.md",
-    "Notes/Basic connections/4. RDP.md",
-    "Notes/Tools/xfreerdp.md",
-    "Notes/Z. Misc/TJ Nulls List.md",
-    "Notes/Z. Misc/Tips for all machine.md",
-    "Notes/Z. Misc/random tips.md",
-    "Notes/Z. Misc/mindmaps.md",
-    "Notes/Z. Misc/Enumeration Tips.md",
-    "Notes/Z. Misc/Download Links.md",
-    "Notes/Z. Misc/Additional tools to download.md",
-    "Notes/Z. Misc/Completed.md",
-    "Notes/Basic connections/1. SSH.md",
+    "Notes/Footprinting/FTP.md",
+    "Notes/Tools/NMAP/6. My Notes HTB.md",
+    "Notes/Attacking Common Applications/ColdFusion.md",
+    "Notes/Z. Misc/Transfering Files/Ssbace.md",
+    "Notes/Web/0. info gathering/Crawlers.md",
+    "Notes/Web/0. info gathering/Well-Known URIs.md",
+    "Notes/Z. Misc/hiring - job finding.md",
+    "Notes/Web/0. info gathering/Web Archives - waybackmachine.md",
+    "Notes/Web/0. info gathering/Search Engine Discovery.md",
+    "Notes/Web/IDOR/Mass IDOR Enumeration (Advanced IDOR).md",
+    "Notes/Password Cracking/2. John the Ripper.md",
+    "Notes/Password Cracking/3. Hashcat.md",
+    "Notes/Tools/Linux/find.md",
     "Notes/Connect commom services",
     "Notes/Brute Forcing/4.5",
     "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
