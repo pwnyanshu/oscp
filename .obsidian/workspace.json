@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Web/IDOR/Mass IDOR Enumeration (Advanced IDOR).md",
+                "file": "Notes/Web/Local File Inclusion (LFI)/6. RFI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mass IDOR Enumeration (Advanced IDOR)"
+              "title": "6. RFI"
             }
           },
           {
@@ -212,10 +212,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a62a422099f11a3",
+  "active": "30f73b857223190a",
   "lastOpenFiles": [
-    "Notes/Attachments/Pasted image 20251219180655.png",
+    "Notes/Z. Misc/Github raw.md",
+    "Notes/Z. Misc/Transfering Files/Ssbace.md",
+    "Notes/Z. Misc/Additional tools to download.md",
+    "Notes/Z. Misc/Download Links.md",
+    "Notes/Web/Local File Inclusion (LFI)/6. RFI.md",
+    "Notes/Attachments/Pasted image 20251225185605.png",
     "Notes/Web/Local File Inclusion (LFI)/5. PHP Wrappers.md",
+    "Notes/Web/0. info gathering/fuff/4. Filtering Results.md",
+    "Notes/Web/0. info gathering/fuff/9. Cheat Sheet.md",
+    "Notes/Web/0. info gathering/fuff/2. Directory.md",
+    "Notes/Web/0. info gathering/fuff/1. Wordlists.md",
+    "Notes/Standalone initial access/Basics.md",
+    "Notes/Active Directory/1. Whats in exam.md",
+    "Notes/Web/IDOR/Mass IDOR Enumeration (Advanced IDOR).md",
+    "Notes/Attachments/Pasted image 20251219180655.png",
     "Notes/Attachments/Pasted image 20251219213129.png",
     "Notes/Attachments/Pasted image 20251219213003.png",
     "Notes/Attachments/Pasted image 20251219212910.png",
@@ -225,8 +238,6 @@
     "Notes/Attachments/Pasted image 20251219180848.png",
     "Notes/Attachments/Pasted image 20251219180730.png",
     "Notes/Web/Local File Inclusion (LFI)/4. PHP Filters.md",
-    "Notes/Attachments/Pasted image 20251208002336.png",
-    "Notes/Web/0. info gathering/fuff/2. Directory.md",
     "Notes/Web/0. info gathering/fuff/3. Subdomains.md",
     "Notes/Web/Local File Inclusion (LFI)/3. Basic bypasses.md",
     "Notes/Web/Local File Inclusion (LFI)/2. Basic LFI.md",
@@ -238,16 +249,7 @@
     "Notes/Footprinting/FTP.md",
     "Notes/Tools/NMAP/6. My Notes HTB.md",
     "Notes/Attacking Common Applications/ColdFusion.md",
-    "Notes/Z. Misc/Transfering Files/Ssbace.md",
     "Notes/Web/0. info gathering/Crawlers.md",
-    "Notes/Web/0. info gathering/Well-Known URIs.md",
-    "Notes/Z. Misc/hiring - job finding.md",
-    "Notes/Web/0. info gathering/Web Archives - waybackmachine.md",
-    "Notes/Web/0. info gathering/Search Engine Discovery.md",
-    "Notes/Web/IDOR/Mass IDOR Enumeration (Advanced IDOR).md",
-    "Notes/Password Cracking/2. John the Ripper.md",
-    "Notes/Password Cracking/3. Hashcat.md",
-    "Notes/Tools/Linux/find.md",
     "Notes/Connect commom services",
     "Notes/Brute Forcing/4.5",
     "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
