@@ -25,44 +25,16 @@
             "id": "e132adeea5f466d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Z. Misc/List of tools and installation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "List of tools and installation"
-            }
-          },
-          {
-            "id": "2a62a422099f11a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Web/IDOR/4. IDOR in Insecure APIs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. IDOR in Insecure APIs"
-            }
-          },
-          {
-            "id": "af39c283714b9dfa",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "Notes/Attachments/Pasted image 20251230121947.png"
+                "file": "Notes/0. Attachments/Pasted image 20260210020624.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251230121947"
+              "title": "Pasted image 20260210020624"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,52 +182,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a62a422099f11a3",
+  "active": "e132adeea5f466d1",
   "lastOpenFiles": [
-    "Notes/Attachments/Pasted image 20251231014630.png",
-    "Notes/Web/IDOR/4. IDOR in Insecure APIs.md",
-    "Notes/Z. Misc/Bash/CURL.md",
-    "Notes/Attachments/Pasted image 20251230121947.png",
-    "Notes/Web/IDOR/3. Bypassing Encoded References.md",
-    "Notes/Z. Misc/Bash/Find.md",
-    "Notes/Attachments/Pasted image 20251231014611.png",
-    "Notes/Attachments/Pasted image 20251231014536.png",
-    "Notes/Attachments/Pasted image 20251231014448.png",
-    "Notes/Attachments/Pasted image 20251231012254.png",
-    "Notes/Attachments/Pasted image 20251231012226.png",
-    "Notes/Attachments/Pasted image 20251231012123.png",
-    "Notes/Attachments/Pasted image 20251231011921.png",
-    "Notes/Attachments/Pasted image 20251231011809.png",
-    "Notes/Web/IDOR/2. Mass IDOR Enumeration (Advanced IDOR).md",
-    "Notes/Web/IDOR/1. Identifying IDORs.md",
-    "Notes/Web/IDOR/0. Basics.md",
-    "Notes/Web/XXE.md",
-    "Notes/Password attacks/Extracting Passwords from Windows Systems/What is what.md",
-    "Notes/Password attacks/Untitled.md",
+    "Notes/Web/0. info gathering/fuff/5. Parameter Fuzzing - GET.md",
+    "Notes/Web/SQLi/HTB/7. Writing files.md",
+    "Notes/Web/SQLi/HTB/6. Reading Files.md",
+    "Notes/0. Attachments/Pasted image 20260210033203.png",
+    "Notes/0. Attachments/Pasted image 20260210033148.png",
+    "Notes/0. Attachments/Pasted image 20260210033109.png",
+    "Notes/0. Attachments/Pasted image 20260210032944.png",
+    "Notes/0. Attachments/Pasted image 20260210032837.png",
+    "Notes/0. Attachments/Pasted image 20260210032646.png",
+    "Notes/Web/SQLi/HTB/5. Enum.md",
+    "Notes/0. Attachments/Pasted image 20260210020624.png",
+    "Notes/Z. Misc/List of tools and installation.md",
+    "Notes/0. Attachments/Pasted image 20251230121947.png",
+    "Notes/0. Attachments/Pasted image 20260207201942.png",
+    "Notes/Shells and Payloads/4. PHP Web shells.md",
+    "Notes/0. Attachments/Pasted image 20260208164645.png",
+    "Notes/Basic connections/4. RDP.md",
+    "Notes/Shells and Payloads/2. Reverse shell.md",
+    "Notes/Shells and Payloads/1. Bind shells.md",
+    "Notes/Shells and Payloads/0. Basics.md",
+    "Notes/Tools/Netcat.md",
+    "Notes/Basic connections/1. SSH.md",
+    "Notes/Footprinting/DNS.md",
+    "Notes/Shells and Payloads",
+    "Notes/Untitled.md",
+    "Untitled",
+    "Notes/Web/File Upload/z. Assesment example.md",
+    "Notes/Web/File Upload/10. Blacklist - White list filters bypass.md",
+    "Notes/Web/File Upload/9. cheatsheet - checklist.md",
+    "Notes/Web/File Upload/3. Simple RCE.md",
+    "Notes/Web/File Upload/2. File Overwrite.md",
+    "Notes/Web/File Upload/6. Bypassing Server-Side Filtering- File Extensions.md",
+    "Notes/Web/File Upload/5. Bypassing Client side.md",
+    "Notes/Web/File Upload/4. Different types of filtering by developers.md",
+    "Notes/Web/File Upload/13. Type filters.md",
+    "Notes/Web/File Upload/14. what are all the filters we will have to bypass?.md",
+    "Notes/Web/File Upload/15. Limited file uploads.md",
+    "Notes/Web/File Upload/8. Methodology.md",
+    "Notes/Web/XXE",
     "Notes/Password attacks/Extracting Passwords from Windows Systems",
     "Notes/Password attacks",
-    "Notes/Attackiing common services/DNS.md",
-    "Notes/Z. Misc/Kali.md",
-    "Notes/Basic connections/5. SMB.md",
-    "Notes/Web/Local File Inclusion (LFI)/6. RFI.md",
-    "Notes/Z. Misc/Github raw.md",
-    "Notes/Z. Misc/Transfering Files/Ssbace.md",
-    "Notes/Z. Misc/Additional tools to download.md",
-    "Notes/Z. Misc/Download Links.md",
-    "Notes/Web/Local File Inclusion (LFI)/5. PHP Wrappers.md",
-    "Notes/Web/0. info gathering/fuff/4. Filtering Results.md",
-    "Notes/Web/0. info gathering/fuff/9. Cheat Sheet.md",
-    "Notes/Web/0. info gathering/fuff/2. Directory.md",
-    "Notes/Web/0. info gathering/fuff/1. Wordlists.md",
-    "Notes/Standalone initial access/Basics.md",
-    "Notes/Active Directory/1. Whats in exam.md",
     "Notes/Connect commom services",
     "Notes/Brute Forcing/4.5",
     "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
     "Notes/Footprinting",
-    "Notes/Attacking Common Applications",
-    "Notes/Wordlists",
-    "Notes/Tools/Medusa",
-    "Notes/Tools/Hydra"
+    "Notes/Attacking Common Applications"
   ]
 }
