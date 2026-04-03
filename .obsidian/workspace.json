@@ -11,15 +11,58 @@
             "id": "e132adeea5f466d1",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Tools/John the ripper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "John the ripper"
+            }
+          },
+          {
+            "id": "392bae5b2fc6a99a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Z. Misc/OpenVPN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenVPN"
+            }
+          },
+          {
+            "id": "dbda42fe50306a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Z. Misc/Install Docker and Pcredz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Install Docker and Pcredz"
+            }
+          },
+          {
+            "id": "471acf48f40340f4",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Notes/0. Attachments/Pasted image 20260214230005.png"
+                "file": "Notes/0. Attachments/Pasted image 20260403194743.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260214230005"
+              "title": "Pasted image 20260403194743"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5026054382324
   },
   "right": {
     "id": "9f6cf65381b1fa99",
@@ -169,51 +212,51 @@
   },
   "active": "30f73b857223190a",
   "lastOpenFiles": [
-    "Notes/Attackiing common services/SQL Databases.md",
-    "Notes/Web/SQLi/HTB/0. Intro.md",
-    "Notes/Tools/Linux/find.md",
-    "Notes/Web/SQLi/HTB/7. Writing files.md",
-    "Notes/0. Attachments/Pasted image 20260215133502.png",
-    "Notes/Tools/NMAP/6. My Notes HTB.md",
-    "Notes/Tools/NMAP/7. Performance HTB.md",
-    "Notes/Tools/NMAP/1. Basics.md",
-    "Notes/Web/0. info gathering/fuff/7. Value fuzzing.md",
-    "Notes/0. Attachments/Pasted image 20260215002739.png",
-    "Notes/0. Attachments/Pasted image 20260215002647.png",
-    "Notes/0. Attachments/Pasted image 20260215002105.png",
-    "Notes/0. Attachments/Pasted image 20260215002042.png",
-    "Notes/0. Attachments/Pasted image 20260215000750.png",
-    "Notes/0. Attachments/Pasted image 20260214233651.png",
-    "Notes/0. Attachments/Pasted image 20260214233450.png",
-    "Notes/Web/0. info gathering/fuff/6. POST parameter fuzzing.md",
-    "Notes/0. Attachments/Pasted image 20260214232240.png",
-    "Notes/Z. Misc/extra.md",
-    "Notes/Web/0. info gathering/fuff/5. Parameter Fuzzing - GET.md",
-    "Notes/0. Attachments/Pasted image 20260214230020.png",
-    "Notes/Web/0. info gathering/fuff/2. Directory.md",
-    "Notes/Web/0. info gathering/fuff/1. Wordlists.md",
+    "Notes/0. Attachments/Pasted image 20260403184140.png",
+    "Notes/Attacking Common Applications/OSticket.md",
+    "Notes/0. Attachments/Pasted image 20260403195009.png",
+    "Notes/0. Attachments/Pasted image 20260403194907.png",
+    "Notes/0. Attachments/Pasted image 20260403194847.png",
+    "Notes/0. Attachments/Pasted image 20260403194743.png",
+    "Notes/0. Attachments/Pasted image 20260403194727.png",
+    "Notes/0. Attachments/Pasted image 20260403194049.png",
+    "Notes/0. Attachments/Pasted image 20260403194039.png",
+    "Notes/0. Attachments/Pasted image 20260403192906.png",
+    "Notes/0. Attachments/Pasted image 20260403192841.png",
+    "Notes/0. Attachments/Pasted image 20260403192644.png",
+    "Notes/Password attacks/Linux/Credential Hunting in Linux.md",
+    "Notes/Password attacks/Extracting Passwords from Windows Systems/What is what.md",
+    "Notes/Z. Misc/Linked list.md",
+    "Notes/Web/XXE/1. Local File Disclosure.md",
+    "Notes/Web/XXE/0. XXE.md",
+    "Notes/Web/Local File Inclusion (LFI)/7. LFI and File Uploads.md",
+    "Notes/Web/Command Injection/7. Bypassing black listed commands.md",
+    "Notes/Web/File Upload/7. Bypass magic number.md",
     "Notes/Web/SQLi/HTB/6. Reading Files.md",
-    "Notes/Web/SQLi/HTB/5. Enum.md",
-    "Notes/Z. Misc/List of tools and installation.md",
-    "Notes/Shells and Payloads/4. PHP Web shells.md",
-    "Notes/Basic connections/4. RDP.md",
+    "Notes/Tools/Burp Suite by PortSwigger/6. Bypassing the proxy TLS browser problem.md",
+    "Notes/Web/SQLi/PortSwigger/6. Blind SQLi.md",
+    "Notes/Web/XSS/5. XXS Discovery.md",
+    "Notes/Web/SQLi/HTB/4. UNION.md",
+    "Notes/Web/Local File Inclusion (LFI)/4. PHP Filters.md",
+    "Notes/Web/File Upload/3. Simple RCE.md",
+    "Notes/Web/Local File Inclusion (LFI)/3. Basic bypasses.md",
     "Notes/Shells and Payloads/2. Reverse shell.md",
-    "Notes/Shells and Payloads/1. Bind shells.md",
-    "Notes/Shells and Payloads/0. Basics.md",
-    "Notes/Tools/Netcat.md",
-    "Notes/Basic connections/1. SSH.md",
-    "Notes/Footprinting/DNS.md",
-    "Notes/Shells and Payloads",
-    "Notes/Untitled.md",
+    "Notes/Tools/Burp Suite by PortSwigger/2. Foxyproxy.md",
+    "Notes/Web/Local File Inclusion (LFI)/2. Basic LFI.md",
+    "Notes/Web/Command Injection/1. Intro.md",
+    "Notes/Password attacks/Extracting from network/Credential Hunting in Network Shares.md",
+    "Notes/1. Basic connections/4. RDP.md",
+    "Notes/Password attacks/Extracting from network/Credential Hunting in Network Traffic.md",
+    "Notes/Z. Misc/wordlists.md",
+    "Notes/Password attacks/Password Management",
+    "Notes/Password attacks/Wordlists",
+    "Notes/Password attacks/Cracking files",
+    "Notes/Password attacks/Extracting from network",
+    "Notes/Password attacks/Linux",
+    "Notes/Metasploit",
     "Untitled",
-    "Notes/Web/File Upload/z. Assesment example.md",
+    "Notes/Shells and Payloads",
     "Notes/Web/XXE",
-    "Notes/Password attacks/Extracting Passwords from Windows Systems",
-    "Notes/Password attacks",
-    "Notes/Connect commom services",
-    "Notes/Brute Forcing/4.5",
-    "Notes/Privlege Esclation/Windows HTB/Windows User Privileges",
-    "Notes/Footprinting",
-    "Notes/Attacking Common Applications"
+    "Notes/Password attacks/Extracting Passwords from Windows Systems"
   ]
 }

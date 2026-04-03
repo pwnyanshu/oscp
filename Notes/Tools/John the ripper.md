@@ -15,7 +15,7 @@ Note -
 3. enjoy
 
 
-
+---
 
 ## Windows auth hash
 
@@ -23,7 +23,12 @@ Note -
 ![[Pasted image 20250819114901.png]]
 
 
+```bash
+john --format=netntlmv2 hash.txt --wordlist=rockyou.txt
+```
+![[Pasted image 20260312021237.png]]
 
+---
 ## Linux shadow unhashing
 
 ![[Pasted image 20250819124206.png]]
@@ -32,7 +37,7 @@ Note -
 
 linux passwords can also be attacked the same way
 
-
+---
 ## Single crack mode (word mangling)
 ![[Pasted image 20250819175550.png]]
 

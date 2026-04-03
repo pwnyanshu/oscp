@@ -136,7 +136,7 @@ crackmapexec smb 10.10.110.17 -u Administrator -H 2B576ACBE6BCFDA7294D6BD18041B8
 ---
 ---
 ---
-#### Forced Authentication Attacks
+#### Forced Authentication Attack - Capture HASH
 
 We can also abuse the SMB protocol by creating a fake SMB Server to capture users' [NetNTLM v1/v2 hashes](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4).
 
@@ -144,7 +144,6 @@ The most common tool to perform such operations is the `Responder`. [Responder
 
 Let's illustrate an example to understand better how `Responder` works. Imagine we created a fake SMB server using the Responder default configuration, with the following command:
 
-  Attacking SMB
 
 ```shell-session
 hellopriyanshu2702@htb[/htb]$ responder -I <interface name>

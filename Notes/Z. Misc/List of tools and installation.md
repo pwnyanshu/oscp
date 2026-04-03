@@ -26,3 +26,12 @@
 ---
 ## Web Crawlers
 - Scrapy, ReconSpider - [[Crawlers]]
+
+---
+
+## Droopescan
+
+pipx install droopescan
+
+---
+
