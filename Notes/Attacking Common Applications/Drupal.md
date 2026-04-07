@@ -53,6 +53,9 @@ droopescan scan drupal -u http://drupal.inlanefreight.local
 
 Tried but was not able to install Droopescan in my computer. DAMNM.
 
+so chat gpt asked me to use nuclei
+
+
 ---
 
 A quick search for Drupal-related [vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1367/product_id-2387/Drupal-Drupal.html) will be helpful now. We would next want to look at installed plugins or abusing built-in functionality.

@@ -13,10 +13,10 @@ They can unintentionally become a goldmine for attackers, especially when sensit
 - Pay attention to the shares you are looking at, and be strategic. If you scan ten shares with thousands of files each, it's going to take a significant amount of time. Shares used by `IT employees` might be a more valuable target than those used for company photos.
 
 ---
-
+---
 # Hunting in Windows
 
-## Snaffler
+### Snaffler
 
 [Snaffler](https://github.com/SnaffCon/Snaffler)
 
@@ -33,8 +33,7 @@ All of the tools covered in this section output a `large amount of information`
 - `-u` retrieves a list of users from Active Directory and searches for references to them in files
 - `-i` and `-n` allow you to specify which shares should be included in the search
 
----
-## PowerHuntShares
+### PowerHuntShares
 
  [PowerHuntShares](https://github.com/NetSPI/PowerHuntShares)
 
@@ -46,12 +45,23 @@ One of its most useful features is that it generates an `HTML report` upon com
 PS C:\Users\Public\PowerHuntShares> Invoke-HuntSMBShares -Threads 100 -OutputDirectory c:\Users\Public
 ```
 
+How I downloaded it
+My machine
+![[Pasted image 20260404145117.png]]
+
+Windows Machine
+![[Pasted image 20260404145203.png]]
+
+was not successful though
+
+
+
 ---
 ---
 
 # Hunting from Linux
 
-## MANSPIDER
+### MANSPIDER
 
 If we don’t have access to a domain-joined computer, or simply prefer to search for files remotely, tools like [MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER) allow us to scan SMB shares from Linux. 
 
@@ -63,9 +73,8 @@ Like the other tools, `MANSPIDER` offers many parameters that can be configure
 docker run --rm -v ./manspider:/root/.manspider blacklanternsecurity/manspider 10.129.234.121 -c 'passw' -u 'mendres' -p 'Inlanefreight2025!'
 ```
 
----
 
-## NetExec
+### NetExec
 
 In addition to its many other uses, `NetExec` can also be used to search through network shares using the `--spider` option. 
 

