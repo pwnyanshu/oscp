@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Notes/0. Attachments/Pasted image 20260407160230.png"
+                "file": "Notes/0. Attachments/Pasted image 20260411013040.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260407160230"
+              "title": "Pasted image 20260411013040"
             }
           },
           {
@@ -39,16 +39,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Z. Misc/Transfering Files/SMBserver.md",
+                "file": "Notes/Attacking Common Applications/Y. Other Notable Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMBserver"
+              "title": "Y. Other Notable Applications"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,53 +196,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "30f73b857223190a",
+  "active": "51b1266341841892",
   "lastOpenFiles": [
-    "Notes/0. Attachments/Pasted image 20260406205117.png",
-    "Notes/0. Attachments/Pasted image 20260405200251.png",
-    "Notes/0. Attachments/Pasted image 20260404132055.png",
-    "Notes/0. Attachments/Pasted image 20260403221542.png",
-    "Notes/Attacking Common Applications/Drupal.md",
-    "Notes/Attacking Common Applications/Joomla/1. Attacking joomla.md",
-    "Notes/0. Attachments/Pasted image 20260407172712.png",
-    "Notes/0. Attachments/Pasted image 20260407172010.png",
-    "Notes/0. Attachments/Pasted image 20260407164018.png",
-    "Notes/0. Attachments/Pasted image 20260407163313.png",
-    "Notes/0. Attachments/Pasted image 20260407163257.png",
-    "Notes/0. Attachments/Pasted image 20260407162724.png",
-    "Notes/Attacking Common Applications/Joomla/0. Discovery & Enumeration.md",
-    "Notes/0. Attachments/Pasted image 20260407160638.png",
-    "Notes/Z. Misc/What NOT to Study for the OSCP.md",
-    "Notes/Attacking Common Applications/Joomla",
+    "Notes/0. Attachments/Pasted image 20260411013040.png",
+    "Notes/0. Attachments/Pasted image 20260501211043.png",
+    "Notes/Password attacks/Windows lateral movement/Pass the Hash.md",
+    "Notes/0. Attachments/Pasted image 20260501210948.png",
+    "Notes/0. Attachments/Pasted image 20260501210913.png",
+    "Notes/0. Attachments/Pasted image 20260501161810.png",
+    "Notes/0. Attachments/Pasted image 20260501161641.png",
+    "Notes/0. Attachments/Pasted image 20260501115324.png",
+    "Notes/Attacking Common Applications/servlet container - software development/Tomcat/Discovery and Enum.md",
+    "Notes/Password attacks/Windows lateral movement",
+    "Notes/0. Attachments/Pasted image 20260414111225.png",
+    "Notes/0. Attachments/Pasted image 20260414111054.png",
+    "Notes/0. Attachments/Pasted image 20260413203857.png",
+    "Notes/Attacking Common Applications/servlet container - software development/Jenkins.md",
+    "Notes/Attacking Common Applications/servlet container - software development/Tomcat",
+    "Notes/Attacking Common Applications/servlet container - software development",
     "Notes/Attacking Common Applications/Untitled.md",
-    "Notes/Password attacks/Extracting Passwords from Windows Systems/Attacking SAM, SYSTEM, and SECURITY.md",
+    "Notes/Attacking Common Applications/CMS/Drupal/Attacking Drupal.md",
+    "Notes/Attacking Common Applications/CMS",
+    "Notes/0. Attachments/Pasted image 20260413012231.png",
+    "Notes/Attacking Common Applications/CMS/Drupal/Enum.md",
+    "Notes/Attacking Common Applications/CMS/Drupal",
+    "Notes/Attacking Common Applications/Web Mass Assignment Vulnerabilities.md",
+    "Notes/Attacking Common Applications/Attacking Applications Connecting to Services - binary, assemble.md",
+    "Notes/Shells and Payloads/2. Reverse shell - windows.md",
+    "Notes/Attacking Common Applications/Y. Other Notable Applications.md",
+    "Notes/Attacking Common Applications/Z. Application hardening.md",
     "Notes/Z. Misc/Transfering Files/SMBserver.md",
     "Notes/Z. Misc/Transfering Files/http.server.md",
-    "Notes/Password attacks/Extracting Passwords from Windows Systems/What is what.md",
+    "Notes/Attackiing common services/FTP.md",
+    "Notes/1. Basic connections/2. FTP.md",
+    "Notes/Password attacks/Remote password attacks/Network Services.md",
+    "Notes/Footprinting/SMB.md",
+    "Notes/Footprinting/NFS.md",
     "Notes/Password attacks/Remote password attacks/Spraying, Stuffing, and Defaults.md",
-    "Notes/Attacking Common Applications/Wordpress/1. Attacking WordPress.md",
-    "Notes/Attacking Common Applications/Wordpress/0. Discovery & Enumeration.md",
-    "Notes/Attacking Common Applications/CGI/Shellshock.md",
-    "Notes/Attacking Common Applications/Wordpress",
-    "Notes/Attacking Common Applications/CGI/Tomcat CGI.md",
-    "Notes/Z. Misc/Install Docker and Pcredz.md",
-    "Notes/Tools/John the ripper.md",
+    "Notes/Attacking Common Applications/CMS/Joomla/1. Attacking joomla.md",
+    "Notes/Attacking Common Applications/CMS/Joomla/0. Discovery & Enumeration.md",
+    "Notes/Z. Misc/What NOT to Study for the OSCP.md",
+    "Notes/Attacking Common Applications/CMS/Joomla",
+    "Notes/Password attacks/Extracting Passwords from Windows Systems/Attacking SAM, SYSTEM, and SECURITY.md",
+    "Notes/Password attacks/Extracting Passwords from Windows Systems/What is what.md",
+    "Notes/Attacking Common Applications/CMS/Wordpress/1. Attacking WordPress.md",
+    "Notes/Attacking Common Applications/CMS/Wordpress",
     "Notes/Attacking Common Applications/CGI",
-    "Notes/1. Basic connections/3. MySQL.md",
-    "Notes/Password attacks/Extracting from network/Credential Hunting in Network Shares.md",
     "Notes/Password attacks/Remote password attacks",
-    "Notes/Z. Misc/OpenVPN.md",
-    "Notes/Password attacks/Cracking files/Cracking Protected Archives.md",
-    "Notes/Web/0. info gathering/fuff/3. Subdomains.md",
-    "Notes/Web/0. info gathering/fuff/1. Wordlists.md",
-    "Notes/Web/0. info gathering/fuff/2. Directory.md",
-    "Notes/Attacking Common Applications/OSticket.md",
-    "Notes/Password attacks/Linux/Credential Hunting in Linux.md",
-    "Notes/Password attacks/Password Management",
-    "Notes/Password attacks/Wordlists",
-    "Notes/Password attacks/Cracking files",
-    "Notes/Password attacks/Extracting from network",
-    "Notes/Password attacks/Linux",
-    "Notes/Metasploit"
+    "Notes/Password attacks/Password Management"
   ]
 }
